@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>気まぐれ記録</title>
+    <link>https://kngw97.github.io/blog/</link>
+    <description>Recent content on 気まぐれ記録</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kngw97.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://kngw97.github.io/blog/about/</link>
+      <pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://kngw97.github.io/blog/about/</guid>
+      <description>日本の大学院生(博士課程)です。
+関西出身なので、関西弁での記録が多いと思います。
+いまは東北に住んでいて、寒さと湿度にやられてます、、、
+食事や栄養について興味があります。
+よろしくどうぞ。</description>
+    </item>
+    
+    <item>
+      <title>ごきげんよう</title>
+      <link>https://kngw97.github.io/blog/2022/12/18/%E3%81%94%E3%81%8D%E3%81%92%E3%82%93%E3%82%88%E3%81%86/</link>
+      <pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://kngw97.github.io/blog/2022/12/18/%E3%81%94%E3%81%8D%E3%81%92%E3%82%93%E3%82%88%E3%81%86/</guid>
+      <description>徒然なるままに、、 自分がどんなことやったか可視化するために、この記録をはじめようと思う。 こんなこと大変やったなとか、こんなことしてたんか自分とか、 見返したときにわかるような記録にしていきたい。
+あわよくば、この記録に辿り着いた人の参考になればええなあ、と。
+記録はじめよ！おもたきっかけは、最近行った国際学会。 ここでの発見、印象をどっかに記録しておきたいなと思ってたけど、 誰かにも共有したいなと思って、ブログって形にしよって思った。
+この記録を作成するまでに、 RとGitHubを連携させるとか、その前にまずGitとGitHubの環境構築とか、色々試行錯誤した経緯とかも記載していこうと思う。</description>
+    </item>
+    
+  </channel>
+</rss>
